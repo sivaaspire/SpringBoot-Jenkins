@@ -16,10 +16,10 @@ public class DemoApplicationTests {
 	public static final Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
 
 	@Test
-	public  contextLoads() {
+	public void contextLoads() {
 		logger.info("Test case executing...");
 		assertSame(true, true);
-		logger.info("Test case executed...");
+		logger.info("Test case execute...");
 	}
 
 }
