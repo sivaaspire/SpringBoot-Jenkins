@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 	
-	public static final Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
+	//public static final Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
 
 	@Test
 	public void contextLoads() {
