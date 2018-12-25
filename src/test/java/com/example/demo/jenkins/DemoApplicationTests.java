@@ -16,7 +16,7 @@ public class DemoApplicationTests {
 	public static final Logger logger = LoggerFactory.getLogger(DemoApplicationTests.class);
 
 	@Test
-	public void contextLoads() {
+	public  contextLoads() {
 		logger.info("Test case executing...");
 		assertSame(true, true);
 		logger.info("Test case executed...");
