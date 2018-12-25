@@ -19,7 +19,6 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		logger.info("Test case executing...");
 		assertSame(true, true);
-		logger.info("Test case execute...");
 	}
 
 }
